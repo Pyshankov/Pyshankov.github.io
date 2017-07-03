@@ -1,11 +1,9 @@
-# Header 1
-## Header 2
-### Header 3
+---
+layout: default
+---
 
-- Bulleted
-- List
+## Hi this is my site
 
-1. Numbered
-2. List
+This is the **index** page.
 
-**Bold** and _Italic_ and `Code` text
+This site is built with Jekyll.
