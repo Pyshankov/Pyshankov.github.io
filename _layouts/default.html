@@ -31,10 +31,14 @@
 
             <!-- Blog Post Content Column -->
             <div class="col-lg-8">
-            
-              {{ content }}
 
 
+
+              {% if page.url != "/"  %}
+                  {{ content }}
+              {% else %}
+                {% include post-element.html %}
+              {% endif %}
 
             </div>
 
