@@ -10,3 +10,4 @@ port: 4000
 highlighter: pygments
 # markdown: redcarpet
 permalink: pretty
+paginate: 5
