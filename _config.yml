@@ -11,3 +11,4 @@ highlighter: pygments
 # markdown: redcarpet
 permalink: pretty
 paginate: 5
+paginate_path: "/page:num/"
